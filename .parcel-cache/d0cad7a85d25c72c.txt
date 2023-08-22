@@ -1,4 +1,4 @@
-4714
+4713
 103C:\Users\user\Documents\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133371400788663837 0
 88C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\transformer-json\package.json133371400785580823 0
 69C:\Users\user\Documents\goit-js-hw-08\node_modules\chrome-trace-event133371400786639230 1
@@ -63,11 +63,6 @@
 75C:\Users\user\Documents\goit-js-hw-08\node_modules\@mischnic\json-sourcemap133371400785160483 1
 126C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133371400791793525 0
 77C:\Users\user\Documents\goit-js-hw-08\node_modules\v8-compile-cache\README.md133371400785895638 0
-58C:\Users\user\Documents\goit-js-hw-08\src\03-feedback.html133371402511746882 0
-50C:\Users\user\Documents\goit-js-hw-08\package.json133371395389597718 0
-78C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\runtime-browser-hmr133371400787308763 1
-60C:\Users\user\Documents\goit-js-hw-08\node_modules\path-type133371400785683442 1
-48C:\Users\user\Documents\goit-js-hw-08\.gitignore133371395389372386 0
 71C:\Users\user\Documents\goit-js-hw-08\node_modules\terser\lib\output.js133371400790965814 0
 70C:\Users\user\Documents\goit-js-hw-08\node_modules\yaml\parse-cst.d.ts133371400791407284 0
 91C:\Users\user\Documents\goit-js-hw-08\node_modules\@swc\helpers\src\_object_spread_props.js133371400793209698 0
@@ -85,6 +80,10 @@
 49C:\Users\user\Documents\goit-js-hw-08\.prettierrc133371395389396333 0
 62C:\Users\user\Documents\goit-js-hw-08\node_modules\yaml\map.js133371400788309157 0
 76C:\Users\user\Documents\goit-js-hw-08\node_modules\terser\lib\utils\index.js133371400790465434 0
+88C:\Users\user\Documents\goit-js-hw-08\node_modules\terser\lib\compress\native-objects.js133371400790867342 0
+59C:\Users\user\Documents\goit-js-hw-08\node_modules\boolbase133371400784732961 1
+79C:\Users\user\Documents\goit-js-hw-08\node_modules\source-map\lib\base64-vlq.js133371400786390202 0
+44C:\Users\user\Documents\goit-js-hw-08\assets133371396437990917 1
 85C:\Users\user\Documents\goit-js-hw-08\node_modules\@nodelib\fs.scandir\out\index.d.ts133371400789231074 0
 68C:\Users\user\Documents\goit-js-hw-08\node_modules\immutable\LICENSE133371400783962883 0
 63C:\Users\user\Documents\goit-js-hw-08\node_modules\browserslist133371400787824967 1
@@ -105,10 +104,6 @@
 71C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\reporter-cli133371400788429380 1
 101C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133371400789280764 0
 110C:\Users\user\Documents\goit-js-hw-08\node_modules\@swc\helpers\src\_class_static_private_field_destructure.js133371400792862833 0
-88C:\Users\user\Documents\goit-js-hw-08\node_modules\terser\lib\compress\native-objects.js133371400790867342 0
-59C:\Users\user\Documents\goit-js-hw-08\node_modules\boolbase133371400784732961 1
-79C:\Users\user\Documents\goit-js-hw-08\node_modules\source-map\lib\base64-vlq.js133371400786390202 0
-44C:\Users\user\Documents\goit-js-hw-08\assets133371396437990917 1
 75C:\Users\user\Documents\goit-js-hw-08\node_modules\abortcontroller-polyfill133371400788429380 1
 50C:\Users\user\Documents\goit-js-hw-08\node_modules133371400804080393 1
 88C:\Users\user\Documents\goit-js-hw-08\node_modules\dom-serializer\lib\esm\index.d.ts.map133371400787739277 0
@@ -117,6 +112,10 @@
 73C:\Users\user\Documents\goit-js-hw-08\node_modules\nan\nan_string_bytes.h133371400789182476 0
 68C:\Users\user\Documents\goit-js-hw-08\node_modules\fclone\bower.json133371400785829083 0
 55C:\Users\user\Documents\goit-js-hw-08\package-lock.json133371400803747498 0
+58C:\Users\user\Documents\goit-js-hw-08\src\03-feedback.html133371402511746882 0
+50C:\Users\user\Documents\goit-js-hw-08\package.json133371406226182869 0
+78C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\runtime-browser-hmr133371400787308763 1
+60C:\Users\user\Documents\goit-js-hw-08\node_modules\path-type133371400785683442 1
 50C:\Users\user\Documents\goit-js-hw-08\README.en.md133371395389412461 0
 85C:\Users\user\Documents\goit-js-hw-08\node_modules\caniuse-lite\data\features\midi.js133371400797682034 0
 91C:\Users\user\Documents\goit-js-hw-08\node_modules\utility-types\dist\aliases-and-guards.js133371400784493212 0
@@ -1574,10 +1573,10 @@
 66C:\Users\user\Documents\goit-js-hw-08\node_modules\.bin\parcel.ps1133371400800315403 0
 91C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\package.json133371400789531451 0
 71C:\Users\user\Documents\goit-js-hw-08\node_modules\resolve-from\license133371400784783084 0
-71C:\Users\user\Documents\goit-js-hw-08\node_modules\msgpackr\SECURITY.md133371400789142087 0
 76C:\Users\user\Documents\goit-js-hw-08\node_modules\resolve-from\package.json133371400783904862 0
 90C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\runtime-browser-hmr\lib\loaders133371400784555159 1
 82C:\Users\user\Documents\goit-js-hw-08\node_modules\caniuse-lite\data\regions\AW.js133371400791001722 0
+71C:\Users\user\Documents\goit-js-hw-08\node_modules\msgpackr\SECURITY.md133371400789142087 0
 85C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\graph\src\AdjacencyList.js133371400786242609 0
 87C:\Users\user\Documents\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Selector.js133371400792824459 0
 78C:\Users\user\Documents\goit-js-hw-08\node_modules\regenerator-runtime\LICENSE133371400783925699 0
@@ -2057,6 +2056,9 @@
 82C:\Users\user\Documents\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PT.js133371400798515025 0
 72C:\Users\user\Documents\goit-js-hw-08\node_modules\msgpackr\dist\test.js133371400788231844 0
 70C:\Users\user\Documents\goit-js-hw-08\node_modules\htmlparser2\LICENSE133371400783962883 0
+93C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\packager-js\src\CJSOutputFormat.js133371400785079872 0
+78C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\bundler-default\lib133371400784471638 1
+66C:\Users\user\Documents\goit-js-hw-08\node_modules\clone\README.md133371400784848737 0
 75C:\Users\user\Documents\goit-js-hw-08\node_modules\modern-normalize\license133371400783947606 0
 83C:\Users\user\Documents\goit-js-hw-08\node_modules\entities\lib\decode_codepoint.js133371400784529132 0
 98C:\Users\user\Documents\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-width-stretch.js133371400793999797 0
@@ -2987,9 +2989,6 @@
 88C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\cache\lib\IDBCache.browser.js133371400785653413 0
 66C:\Users\user\Documents\goit-js-hw-08\node_modules\clone\clone.iml133371400786242609 0
 64C:\Users\user\Documents\goit-js-hw-08\node_modules\clone\LICENSE133371400785309746 0
-93C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\packager-js\src\CJSOutputFormat.js133371400785079872 0
-78C:\Users\user\Documents\goit-js-hw-08\node_modules\@parcel\bundler-default\lib133371400784471638 1
-66C:\Users\user\Documents\goit-js-hw-08\node_modules\clone\README.md133371400784848737 0
 91C:\Users\user\Documents\goit-js-hw-08\node_modules\chrome-trace-event\dist\trace-event.d.ts133371400786339810 0
 99C:\Users\user\Documents\goit-js-hw-08\node_modules\caniuse-lite\data\features\picture-in-picture.js133371400798340872 0
 89C:\Users\user\Documents\goit-js-hw-08\node_modules\chrome-trace-event\dist\trace-event.js133371400784088027 0
