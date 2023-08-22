@@ -523,8 +523,8 @@ form.addEventListener("input", ()=>{
 document.addEventListener("DOMContentLoaded", ()=>{
     const savedData = JSON.parse(localStorage.getItem(localStorageKey));
     if (savedData) {
-        emailInput.value = savedData.email || "";
-        messageInput.value = savedData.message || "";
+        emailInput.value = savedData.email ?? "";
+        messageInput.value = savedData.message ?? "";
     }
 });
 form.addEventListener("submit", (event)=>{
