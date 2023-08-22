@@ -20,3 +20,5 @@ document.addEventListener('DOMContentLoaded', () => {
         videoPlayer.setCurrentTime(time);
     }
 });
+
+// localStorage.clear();

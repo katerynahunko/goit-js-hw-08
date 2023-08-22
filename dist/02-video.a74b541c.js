@@ -521,7 +521,7 @@ videoPlayer.on("timeupdate", (data)=>{
 document.addEventListener("DOMContentLoaded", ()=>{
     const time = JSON.parse(localStorage.getItem(localStorageKey));
     if (time) videoPlayer.setCurrentTime(time);
-});
+}); // localStorage.clear();
 
 },{"@vimeo/player":"kmmUG","lodash.throttle":"bGJVT","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"kmmUG":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
