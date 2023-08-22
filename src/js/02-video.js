@@ -5,20 +5,21 @@ const iframe = document.querySelector('iframe');
 const videoPlayer = new Player(iframe);
 const localStorageKey = 'videoplayer-current-time';
 
-const saveTime = throttle((time) => {
-    localStorage.setItem(localStorageKey, JSON.stringify(time));
-}, 1000);
+const saveTime = throttle(time => {
+  localStorage.setItem(localStorageKey, JSON.stringify(time));
+}, 100);
 
-videoPlayer.on('timeupdate', (data) => {
-    const time = data.seconds;
-    saveTime(time);
+videoPlayer.on('timeupdate', data => {
+  const time = data.seconds;
+  saveTime(time);
 });
 
 document.addEventListener('DOMContentLoaded', () => {
-    const time = JSON.parse(localStorage.getItem(localStorageKey));
-    if (time) {
-        videoPlayer.setCurrentTime(time);
-    }
+  const time = JSON.parse(localStorage.getItem(localStorageKey));
+  if (time) {
+    videoPlayer.setCurrentTime(time);
+  }
 });
 
-// localStorage.clear();
+// // localStorage.clear();
+// videoPlayer.off('timeupdate');
