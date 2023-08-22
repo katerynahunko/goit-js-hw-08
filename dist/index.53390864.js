@@ -592,4 +592,4 @@ exports.export = function(dest, destName, get) {
 
 },{}]},["8EXaa","6XVkV"], "6XVkV", "parcelRequired7c6")
 
-//# sourceMappingURL=01-gallery.53390864.js.map
+//# sourceMappingURL=index.53390864.js.map
