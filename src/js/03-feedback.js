@@ -30,7 +30,7 @@ form.addEventListener('submit', event => {
 
   const submitteddata = {
     email: emailInput.value,
-    Message: messageInput.value,
+    message: messageInput.value,
   };
 
   console.log(submitteddata);

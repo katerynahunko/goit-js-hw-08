@@ -531,7 +531,7 @@ form.addEventListener("submit", (event)=>{
     event.preventDefault();
     const submitteddata = {
         email: emailInput.value,
-        Message: messageInput.value
+        message: messageInput.value
     };
     console.log(submitteddata);
     localStorage.removeItem(localStorageKey);
