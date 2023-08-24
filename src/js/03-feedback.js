@@ -28,8 +28,12 @@ document.addEventListener('DOMContentLoaded', () => {
 form.addEventListener('submit', event => {
   event.preventDefault();
 
-  console.log('Email:', emailInput.value);
-  console.log('Message:', messageInput.value);
+  const submitteddata = {
+    email: emailInput.value,
+    Message: messageInput.value,
+  };
+
+  console.log(submitteddata);
 
   localStorage.removeItem(localStorageKey);
   emailInput.value = '';
